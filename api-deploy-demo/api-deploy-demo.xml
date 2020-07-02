@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="api-deploy-demo">
+<BasePath>/v1/api-deploy-mock</BasePath>
+<ConfigurationVersion minorVersion="0" majorVersion="4"/>
+<CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+<Description></Description>
+<DisplayName>api-deploy-demo</DisplayName>
+<LastModifiedAt></LastModifiedAt>
+<LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+<Policies>
+    <Policy>Verify-API-Key-1</Policy>
+</Policies>
+<ProxyEndpoints>
+    <ProxyEndpoint>default</ProxyEndpoint>
+</ProxyEndpoints>
+<Resources/>
+<Spec></Spec>
+<TargteServers/>
+<TargetEndpoints>
+    <TargetEndpoint>default</TargetEndpoint>
+</TargetEndpoints>
+</APIProxy>
