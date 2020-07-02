@@ -1,0 +1,3 @@
+// Command to deploy proxy 
+apigeetool deployproxy -u <user_name> -o <organization_name> -e <environment>> -n <proxy-name> -d .
+Ex: apigeetool deployproxy -u jayhindit3033@gmail.com -o jayhindit3033-eval -e test -n api-deploy-demo -d .
