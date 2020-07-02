@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:e1e6c0a821436c184c3fea7c29f2a36be04413f4b8b4ef2de24479959bc74ce5f30ffef34137735d8018f618722fdd99c93f12426bd35fb299ee98f88105c1f4"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:0ee5a7d0ab3febedd57fe4a9f6ed1fc4a90b3f2ab1d41a189031325d66562d7cd2be6d538a8bc9a7bda142369863991e6d66be0fff8c2eb05ec1293d5c544fde"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:998e06f9d00974f56907004303556babf670152bb691e865c9354b5d5eabcbc951095841d259b30992860a8c8424d9353fa22470cfb91db5e243b6dfd5ff9f2f"/>
+    </TargetEndpoints>
+</Manifest>

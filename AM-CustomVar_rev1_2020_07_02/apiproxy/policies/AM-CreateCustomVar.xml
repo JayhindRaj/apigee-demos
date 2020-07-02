@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="AM-CreateCustomVar">
+    <DisplayName>AM-CreateCustomVar</DisplayName>
+    <Properties/>
+    <AssignVariable>
+        <Name>x-var-a</Name>
+        <Ref>request.queryparam.a</Ref>
+    </AssignVariable>
+    <Remove>
+        <QueryParams>
+            <QueryParam name="a"/>
+        </QueryParams>
+    </Remove>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <AssignTo createNew="false" transport="http" type="request"/>
+</AssignMessage>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="JavaScript-1" version="SHA-512:5cf0ea15f602024aa350a8b98704ed506054493363f785aaf99b585236be8038d6382fcd6e43c6b93b4f9f475a8663359305396a9f248d2c49e1a71aa7d90ac1"/>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:afa934cbb55cfaf86bf44b4a76f2dffbdc091cfe00e6eda762d500d3f6f3c5a81cfdc2e3f97d035bfeb21485b38a7ded702f0d4ba6e173a2ee98b102afc97f2c"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c08cb1a9427f62544410ae697e736916a28e632adfb10b062818cf92e7050d38d3680206dcfd1f1adea1ca59f00f99aa962542be971f050b636289d0ad65eb87"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://JavaScript-1.js" version="SHA-512:a1dbe8230bdecb2c47326ca181abd98f27c68f9f08034d00545f040e7cbef62a23e6790d1abd084d09975ffcccdf03c9a9aa0a38f7d4195f66a81a8182021b8d"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>

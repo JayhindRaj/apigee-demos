@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="AM-CustomVar">
+    <Basepaths>/am-customvar</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1591965847106</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>AM-CustomVar</DisplayName>
+    <LastModifiedAt>1591966677486</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:b95fb6b9da8c4f8ae14042d7fde0c844c43d79910e043f75a01af4d0c9898f095936c8d9848b88539f04bb7d2f92c656c8ddc86fd5d96eeaba23d67e10ab3cf9</ManifestVersion>
+    <Policies>
+        <Policy>AM-CreateCustomVar</Policy>
+        <Policy>AM-ReadCustomVar</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
