@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-GoogleMap-Req" version="SHA-512:09547ff1811822e6f447e5c43cc6109a9f226a393fa84af5b7adcd5f9294e4b461079e96cc39389e85fb3897ab831aea91a6f6ca1d392a1390acfe048dddf93c"/>
+        <VersionInfo resourceName="Service-Callout-1" version="SHA-512:0c96efcecd9cc50345c31359c604c34505885ff11af47a1ae79d6e364c9fa9bd65b1fa699ee8631b6718344eb3fc7b50dcbd0be44217757ba6ce5827e43d6858"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:2a7d4d19e35e7535c5e37308d24d6ed2c2fa624965c3521d62b878365ce1c202756857a7d362e9e070d01d40334d0c0e464c77a54fe5e34a174f73b446438d45"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:651cdef5119cb7edaf3c44fb480f4afb0e55297bd3411e4c7e27003489a30c65f2e7b65745075861defae2c300478fdc232275bc442a92d3b7d6ef0d7200a07b"/>
+    </TargetEndpoints>
+</Manifest>

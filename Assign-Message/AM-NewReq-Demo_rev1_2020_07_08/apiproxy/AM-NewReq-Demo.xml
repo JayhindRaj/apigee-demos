@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="AM-NewReq-Demo">
+    <Basepaths>/v1/am-newreq-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589730227395</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>AM-NewReq-Demo</DisplayName>
+    <LastModifiedAt>1589730966968</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f43fa21eb4ec715c54f0c75d7584b2592f752c07cd4f8517ecaad06ca9e67ac0e6a45a7a8b400b77a348d7415a2d76ed5d8a46fd2a32c6e58983ff2abb6ccfe6</ManifestVersion>
+    <Policies>
+        <Policy>AM-GoogleMap-Req</Policy>
+        <Policy>Service-Callout-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

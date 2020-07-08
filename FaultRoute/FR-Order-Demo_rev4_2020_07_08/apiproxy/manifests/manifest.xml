@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="FR-JS-1" version="SHA-512:bcde1048baea0eb37a06d919097b15f2db95e0e6e9d5f2ec8b4e3f4e29a473d6198912c734af983dd6d02271f24a6a434a6062d511b86c3099b6a8bd9ef184bf"/>
+        <VersionInfo resourceName="FR-JS-2" version="SHA-512:a87cea8076805d5a952006f58fd433da23e48626e8946cdfc46e5d4451dc0a054dc29cbae1c87b8ecd092e235ef75ded970cfe36fca9303a0f4a002c045d710d"/>
+        <VersionInfo resourceName="FR-JS-3" version="SHA-512:f8e6de8f4fb5091c3a467e3f35dc5d3c9e7db4722263261e51b7d67757516aa263fa4a1b63dee84fddcd336213af49c5740ae7a7e15f92d5c5af0d8b800fba88"/>
+        <VersionInfo resourceName="Raise-Fault-1" version="SHA-512:830c584825fde15f9017b6f85c208cb664f3c7f7e0ba3405a76c0f89b78f2a0249e606306222bb159a398ce2ee51242d1bb1a5af1f303e39ccc0242c545d0ac2"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:ba62045282686fde64f86296ae7ede784092ae26dd7998768f6ea2ff11148b4dd30ea2fbdb9e056773bb1d903d49f59119686e3a91d43e6f7d5a0dd87cb88769"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="jsc://FR-JS-1.js" version="SHA-512:3382f7b6c181e4cd85f2fe39d8893a0419ba806532d74f29dbd03790c380e9bf9cf5c5c4f9e7c2531fb68e82304c4b0ec675a1b12c525210b4973fc5ef5cb29c"/>
+        <VersionInfo resourceName="jsc://FR-JS-2.js" version="SHA-512:7e30705f5744fc01cb149b6a0786d87ad7289e58781739dc3e69597d3162328a26f3a82ad302547cbfadc64db92ec934693fe660322594ca494d0ce26101543b"/>
+        <VersionInfo resourceName="jsc://FR-JS-3.js" version="SHA-512:4c254f9eda2badcb29b12898dabbf568d8ca52b0a719e7b47483c14f9eb63394c2cffba67774dccab1e0b10489a410c444af8d4b93e83456912f8673c1c5a101"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:57481a24fa6d41666f67ab115f1751e442a1e2181aaba4e3ffed2a50a914cc4e841833588212161cf5997bf6330196401a2351c3c73e6e4eef4be7a9b3954c4b"/>
+    </TargetEndpoints>
+</Manifest>

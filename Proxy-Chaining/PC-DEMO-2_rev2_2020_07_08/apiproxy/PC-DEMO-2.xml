@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="PC-DEMO-2">
+    <Basepaths>/pc-demo-2</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1590744000116</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>PC-DEMO-2</DisplayName>
+    <LastModifiedAt>1590744618913</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:43c95d4d07076d422e83e3aa41b59ebaceb0dc051cb3909c421de2497c9cbe730d8e105e76440a666637d72c898ffb8ea69e346bba5d69a75d6f5854404121d0</ManifestVersion>
+    <Policies/>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Javascript async="false" continueOnError="false" enabled="true" timeLimit="200" name="FR-JS-3">
+    <DisplayName>FR-JS-3</DisplayName>
+    <Properties/>
+    <ResourceURL>jsc://FR-JS-3.js</ResourceURL>
+</Javascript>

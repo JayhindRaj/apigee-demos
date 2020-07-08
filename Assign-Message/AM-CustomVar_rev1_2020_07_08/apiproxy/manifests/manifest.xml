@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-CreateCustomVar" version="SHA-512:52ab20737ee100dac04adb12d8c422695e7354974daaf15b0a45024c224c2d6560011409d882232a05c631a054bd75018705f8ab1526aacf73896c155d7baa83"/>
+        <VersionInfo resourceName="AM-ReadCustomVar" version="SHA-512:e310e3017ba49cf32fec298afed9abdea7db9f73529652f8ce4ec07c04be28bada329dedef09fde52f878f388630b874af9372b592357ea06a808b87308ebc4a"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:7d16cdd6707818d86ed589f62ce553bcde6e4731717c8e3e6862a3882d6979e2bec47e4c1fd5f0a2a7f88733955bba9e033d6c5ba8f3f57c7c6f79ea88264c1c"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:5fc8b54d77ea6ab475f8141dbf848aaebbb4d93ed236976d2bdd84f2e45c5ff1dfd1fc3b54ee26c48d2108cb0d1ea20c5882cba418b5ba546adef471e4a634d1"/>
+    </TargetEndpoints>
+</Manifest>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="FR-Demo-1">
+    <Basepaths>/v1/fr-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589731215540</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>FR-Demo-1</DisplayName>
+    <LastModifiedAt>1589731995021</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f849f6af21d136e0a9e0b6e0dd384a1c01693f7b34f52141e8d1cfe8f26e9e6974e756c1432ecbede89b51b05b448a17c631dbdd7d1a3256598c3c50d81bb5a1</ManifestVersion>
+    <Policies>
+        <Policy>AM-QuotaErrorMesage</Policy>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

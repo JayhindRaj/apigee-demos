@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="FR-Order-Demo">
+    <Basepaths>/fr-order-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589733690497</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>FR-Order-Demo</DisplayName>
+    <LastModifiedAt>1589735843302</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:98973ecb31b3c5ac9242868cb2ae608a7d10e115845f1c8d0d67aec4d13ae7bf890c5acfc7bc32b9dbb1b6fbb67d8ed6d32724e0a2f917344f781a921348ec09</ManifestVersion>
+    <Policies>
+        <Policy>FR-JS-1</Policy>
+        <Policy>FR-JS-2</Policy>
+        <Policy>FR-JS-3</Policy>
+        <Policy>Raise-Fault-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>jsc://FR-JS-1.js</Resource>
+        <Resource>jsc://FR-JS-2.js</Resource>
+        <Resource>jsc://FR-JS-3.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

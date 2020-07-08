@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="AM-QuotaErrorMesage" version="SHA-512:1887398057b95b15804ff008b6af4e125eb4b7c86e878b0aaaba03a433a5acc2112e8796d0cc76f9074ce9321470b801858d57275f17d04e5aae6631172607e9"/>
+        <VersionInfo resourceName="Quota-1" version="SHA-512:e581bdf3f5c0ea4b0b2b5fadcce83ad2647a2a61a4f88dcdc587246a08c4584ca7d3dfb21e092ae94c27e893a4e4105edd2df3a85ba20489761f8fbf3c8eaaa1"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:e7804f32fd84991e42c7429f5e3cae9be6f5af86bc914e72c911bd9f732cc184d45d17dd588c7bf74356f4ec058fb0fba8d09b3c4ed78a2efa90a3872d2e23cd"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:d1af9410f26d6e95ea53d3a7b492e20b25b8d84308b7c1de83cf1c273d914a4b5d29aa285c207fcddcf2f33b061c807de01e1f42040ba9cb2e953e664e854cb9"/>
+    </TargetEndpoints>
+</Manifest>

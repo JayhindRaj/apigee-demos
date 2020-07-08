@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage async="false" continueOnError="false" enabled="true" name="AM-ReadCustomVar">
+    <DisplayName>AM-ReadCustomVar</DisplayName>
+    <Properties/>
+    <Add>
+        <Headers>
+            <Header name="x-variable-a">
+                {x-var-a}
+            </Header>
+        </Headers>
+    </Add>
+    <IgnoreUnresolvedVariables>true</IgnoreUnresolvedVariables>
+    <AssignTo createNew="false" transport="http" type="response"/>
+</AssignMessage>

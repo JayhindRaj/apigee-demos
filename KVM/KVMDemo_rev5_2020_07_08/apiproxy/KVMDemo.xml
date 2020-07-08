@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="5" name="KVMDemo">
+    <Basepaths>/v1/kvmdemo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589520684490</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>KVMDemo</DisplayName>
+    <LastModifiedAt>1589570898459</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:c05661188c43a254402857e0061196cfadcea32fb9408825bb5960d7c369fdb9b8e020cb7e707a9954aeea7ffaaffa0db686f6601732d06d9a05d8a37b16fc9b</ManifestVersion>
+    <Policies>
+        <Policy>Key-Value-Map-Operations-1</Policy>
+        <Policy>RC1</Policy>
+        <Policy>Spike-Arrest-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

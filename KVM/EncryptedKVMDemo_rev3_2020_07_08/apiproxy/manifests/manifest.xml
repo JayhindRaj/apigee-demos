@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Basic-Authentication-1" version="SHA-512:5e99f427434712a309403e30806767945513084d523fb63c41e24efeb82c39e68b3c47e8954e5ad8d1113c2466d10f884d82c37f12028656bf44bd4d01042c2a"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-1" version="SHA-512:2483d0ddabf24d2179dde108f7a9cad70e684d73ac7d9064c9fc49ca71443501c1a72fecfdafafb3f42ed45a52f1fd0927ff76509560aaddeaa4b0db44870f9f"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:041935e7611a4c771b5078663b25c5c083a1389cabd44679a0bb4b205a14f4e22257621d028fc35472616d31f07bf336b03605c12a4b7a3f43e78a4a8207c55a"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:20c6ae91935ef07eebab32475fae20e19fd43b5b3cf98e0320b55cf3771ce520a346e645a80c29d7140e84b85ed2bca7454bfec49e82482b3eb48b2d3256b919"/>
+    </TargetEndpoints>
+</Manifest>

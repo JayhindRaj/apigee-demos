@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Key-Value-Map-Operations-1" version="SHA-512:83065098d6a2783a2edab47293a81d1bdefe25ec17faee8c21c605584d71c62377b692692729fc84e08e45b9a1daa9403887fb310103e59a18fb7e7205c4e3f3"/>
+        <VersionInfo resourceName="RC1" version="SHA-512:2412b64b208a9c606e766449009e95e3d07e180fe33319d34813fa615b7616030e3d7124909e393c32429b57a11e9a7baccd9987de7dfde3d77e01859614c9a9"/>
+        <VersionInfo resourceName="Spike-Arrest-1" version="SHA-512:481e70a4c25a15ae2c5b898f055a55bbdedced9795af994104a7166f18570578f3227d37cca097924ad1ac219d327e744d7c9a93cb8844c4a3702e780d5ec335"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:a6738c22c1ea77b02b02a6fe2648dbeb67523e52fefcae86d2d702b1b62ce409552f2d7a9c8e237270ea8fcf3965755fe4a23bcb98182bf511c23aff74bfe9d9"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:0e76cffdd2ff4c3964d56edda3b1a61f39fcce1e924fc615dc4d4b75b72872594e18ef93da53cac87b8be7a3539c307eb348d1d7f5a39365af5dd801bae1ba07"/>
+    </TargetEndpoints>
+</Manifest>

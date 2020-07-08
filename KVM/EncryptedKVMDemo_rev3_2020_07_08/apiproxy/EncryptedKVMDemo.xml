@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="EncryptedKVMDemo">
+    <Basepaths>/v1/encryptedkvmdemo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589574998468</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>EncryptedKVMDemo</DisplayName>
+    <LastModifiedAt>1590488395595</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:e3a2c4703ad614233f421de22a9f2b48415eb823dc3003c1d83227d3745b60a6dadd180f008e6ce4550c0a705fdd99088c94373875a74f02b3891a5925af91a1</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication-1</Policy>
+        <Policy>Key-Value-Map-Operations-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

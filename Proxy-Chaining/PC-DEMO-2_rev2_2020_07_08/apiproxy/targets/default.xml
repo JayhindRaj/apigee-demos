@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<TargetEndpoint name="default">
+    <PreFlow name="PreFlow">
+        <Request/>
+        <Response/>
+    </PreFlow>
+    <Flows/>
+    <PostFlow name="PostFlow">
+        <Request/>
+        <Response/>
+    </PostFlow>
+    <LocalTargetConnection>
+        <APIProxy>PC-DEMO-1</APIProxy>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </LocalTargetConnection>
+    <!--<HTTPTargetConnection>-->
+    <!--    <URL>https://jayhindit3033-eval-test.apigee.net/pc-demo-1</URL>-->
+    <!--</HTTPTargetConnection>-->
+</TargetEndpoint>
