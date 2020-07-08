@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="OAuth2-AuthorizationServer">
+    <Basepaths>/oauth2</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1590754628962</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>OAuth2-AuthorizationServer</DisplayName>
+    <LastModifiedAt>1590756955462</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:83df7e7d7923a888d3c87d28eddbc1300ba51002c33e700bfa009449c5ba4356b30f934127fcd10a18b8a06688d849f582211fefbd050439815b84bd36a16dde</ManifestVersion>
+    <Policies>
+        <Policy>OAuth-GenerateToken</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints/>
+</APIProxy>

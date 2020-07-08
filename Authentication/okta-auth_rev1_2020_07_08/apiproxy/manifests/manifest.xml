@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:2136079f08b4037920e50be7a2204e4a5c7648c3b4c97236ceb03be03f5ffece1cd65f708bd70c2b0078c68bbabb119856a1eede299b10034237e10da70ab816"/>
+        <VersionInfo resourceName="Basic-Authentication-1" version="SHA-512:93cda44dfebde110617e49a0561b52d9d8e85b7e1059142961575526a457d6489894944a20767b34cd1fac44017eb1d249d6a7f4c27bd8457c804eb9abd6f3b0"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-1" version="SHA-512:ae65234c057eb87fa384be2ab5b561e9c5cbabc3962b7886c22ee1484f405ba10f2a91c955b84f32cba7ac56fd553787a4b46066334c0eecdea871f26e2d4961"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-2" version="SHA-512:6fb683160050a09ff137ad264c4b84a42a05602b3765de1394336b1edaba145dc925db20cac0a67e9f855390b7c9f669d703ef7a7c437c61879ca2edfa5a4b93"/>
+        <VersionInfo resourceName="Verify-API-Key-1" version="SHA-512:3e3239ea7b9ef55d645d8f9c142eaeb86c9491b8e59ddc8863356df764f0860165e8707447f69dcfe970c4f22a188d4649de2f64ec410cfe2c4c765a68d0da16"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:008adb967d5c711038fbb27d9bbbff81c09cfe051d59a033ffb12158322eb3fb270a8c057bdf74b1ca5505a17b535b2c5a79096c4dd356ff57a3a547ccd3463d"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:95471c057f9f0c86ba45444b3a9b8f35acd496d12a2466d65f73d1a1763143ec11ea586c68f868d3cf35d05fbe3e239208b7cf47cb66014efc8386db41ea1e61"/>
+    </TargetEndpoints>
+</Manifest>

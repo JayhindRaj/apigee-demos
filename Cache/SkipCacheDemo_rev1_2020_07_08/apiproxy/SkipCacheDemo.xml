@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="SkipCacheDemo">
+    <Basepaths>/v2/books</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589726596713</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>SkipCacheDemo</DisplayName>
+    <LastModifiedAt>1589727030953</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:6cfa5a585995c2a77dc524a4f0626e555a0b70b6a0f94002367b96384e44d7e406c8368e66a22a702f746811cee02ee4b1c7817dbbcecffda6a5b8dc1e05b985</ManifestVersion>
+    <Policies>
+        <Policy>Response-Cache-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

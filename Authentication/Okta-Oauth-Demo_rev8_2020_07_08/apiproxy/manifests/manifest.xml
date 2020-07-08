@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:8edc99893e487895da03810af4f43d261132f7894cb139420ca06f0aa65c419705a6be877b0261a437ef06793d67d15dc576205650b1aad2b741d441a25136ac"/>
+        <VersionInfo resourceName="Key-Value-Map-Operations-1" version="SHA-512:80ec29de493bceec827e74a6570037b8622c6c9878d5cb41fd233f46af92e0bd217d59f1cfac0dee250201b984eec309394d50a7bcda6dce6743c96bf329ff53"/>
+        <VersionInfo resourceName="Verify-JWT-1" version="SHA-512:ca0ac90bf45c132578dd7bd32ea81b4fbfb7810415efaf5889a165ad0f5382a33cb764823582eaafb20fc1032e073a08095a511f7a9644a18dace0521e4e7597"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:90784fa87d58a52e677abc983381c2c360b301b5ebff6ba27e4c9b41b872ac412ad85c5ef07f80a123385e3375f6916e8c86db3edbab60c8faa0dbe0f670cbdf"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:c896c574344e9465d6fd84db59e664dfa0077ff77a9d2f8072e7c210189bd636fca5f8ca71b7428b35e767d523f4b79c00fdd88a6f4d9e6d9a14dc118551ce3e"/>
+    </TargetEndpoints>
+</Manifest>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="DynamicCacheDemo">
+    <Basepaths>/v1/dynamiccachedemo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589636339262</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>DynamicCacheDemo</DisplayName>
+    <LastModifiedAt>1589636756102</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:75f46f9642e92a3f3ff27ea5c915b692f4726bb7bfb6bf303c17c82252dae332ecd199472a4bee1533b30f3ec0309e71d76233e3aceeb949c521387b670e8354</ManifestVersion>
+    <Policies>
+        <Policy>Response-Cache-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

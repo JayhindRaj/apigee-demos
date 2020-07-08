@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<VerifyJWT async="false" continueOnError="false" enabled="true" name="Verify-JWT-1">
+    <DisplayName>Verify JWT-1</DisplayName>
+    <Algorithm>RS256</Algorithm>
+    <Source>request.header.jwt_token</Source>
+    <PublicKey>
+        <Value ref="private.publickey"/>
+    </PublicKey>
+    <Subject>jayhindit3033@gmail.com</Subject>
+    <Issuer>https://dev-272365.okta.com/oauth2/default</Issuer>
+    <Audience>api://default</Audience>
+    <Scopes>
+        <value>offline_access</value>
+        <value>openid</value>
+        <value>testscope-1</value>
+        <value>email</value>
+        <value>phone</value>
+    </Scopes>
+</VerifyJWT>

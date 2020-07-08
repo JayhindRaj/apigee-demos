@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="BasicAuthEncodeDemo">
+    <Basepaths>/v1/basicauthencodedemo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589577067449</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>BasicAuthEncodeDemo</DisplayName>
+    <LastModifiedAt>1589577384880</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:7e837a9e32ad064dd01de263de9d4ccf8cf3169bec764003a1757c81c571e580311097a07c8d58f89d521a7635fba6ed8c7c2b521b557ff3b8c5e241571a158d</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

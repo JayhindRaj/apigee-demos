@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="okta-oauthDemo">
+    <Basepaths>/v1/okta-demo</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1591692999540</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>okta-oauthDemo</DisplayName>
+    <LastModifiedAt>1591692999540</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:7785b2625ea41166641ebe7ff9b3c0d05facdd654ba0f34db3c3d43ae95df761c71eedf1a7066495432d1beba2bdcc6e24002d74cc41d0be4c0f40a701d80253</ManifestVersion>
+    <Policies>
+        <Policy>Flow-Callout-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

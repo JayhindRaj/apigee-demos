@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ProxyEndpoint name="default">
+    <PreFlow name="PreFlow">
+        <Request/>
+        <Response/>
+    </PreFlow>
+    <Flows>
+        <Flow name="TokenExchange">
+            <Description/>
+            <Request>
+                <Step>
+                    <Name>Verify-API-Key-1</Name>
+                </Step>
+                <Step>
+                    <Name>Assign-Message-1</Name>
+                </Step>
+                <Step>
+                    <Name>Key-Value-Map-Operations-1</Name>
+                </Step>
+                <Step>
+                    <Name>Key-Value-Map-Operations-2</Name>
+                </Step>
+                <Step>
+                    <Name>Basic-Authentication-1</Name>
+                </Step>
+            </Request>
+            <Response/>
+            <Condition>(proxy.pathsuffix MatchesPath "/token") and (request.verb = "POST")</Condition>
+        </Flow>
+    </Flows>
+    <PostFlow name="PostFlow">
+        <Request/>
+        <Response/>
+    </PostFlow>
+    <HTTPProxyConnection>
+        <BasePath>/v1/oauth</BasePath>
+        <VirtualHost>secure</VirtualHost>
+    </HTTPProxyConnection>
+    <RouteRule name="default">
+        <TargetEndpoint>default</TargetEndpoint>
+    </RouteRule>
+</ProxyEndpoint>

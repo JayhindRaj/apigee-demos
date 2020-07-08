@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="Key-Value-Map-Operations-1" mapIdentifier="okta-config-encrypted">
+    <DisplayName>Key Value Map Operations-1</DisplayName>
+    <Properties/>
+    <Get assignTo="private.publickey" index="1">
+        <Key>
+            <Parameter>public-key</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>

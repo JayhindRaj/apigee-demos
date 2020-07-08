@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="CacheIfBackendDataChanged">
+    <Basepaths>/v1/books</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1589727477103</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>CacheIfBackendDataChanged</DisplayName>
+    <LastModifiedAt>1589727573427</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:ecede8fbe65e0523824e5a7ebff79d991220e50229abc57d68ee54ce88db71777e570a15c399d19f8f84b8a82cee0200c4856a0f565ceaf5364a17b7209a0445</ManifestVersion>
+    <Policies>
+        <Policy>Response-Cache-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

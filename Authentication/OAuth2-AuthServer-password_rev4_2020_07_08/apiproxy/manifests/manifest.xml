@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="OAuth-Generate-Token" version="SHA-512:0abe4333fd94ca97a2700e7c768c134126987539f2687ec384c49d890d87a377ab7acc808de343c93971dad6fd913a77a473a201c6b7dfcf07e8083934c3ecd0"/>
+        <VersionInfo resourceName="SC-Validate-Creds" version="SHA-512:0cae16ccbb3e1910fe650b9808b32f7510da8c40834c8da52a10b8322b24c3d2b65ce65ef9e8971ba485314258b842ef2c71e89ece03b267ba586e352c01199f"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:dd802a734dd67548f6813a47185ab02efcbaa1119df5328dddf1a17900a3c709edd9014de8132480963ba2975119da8f09de6c32cb153ab2a0722ca103e30615"/>
+    </ProxyEndpoints>
+    <Resources/>
+    <SharedFlows/>
+    <TargetEndpoints/>
+</Manifest>

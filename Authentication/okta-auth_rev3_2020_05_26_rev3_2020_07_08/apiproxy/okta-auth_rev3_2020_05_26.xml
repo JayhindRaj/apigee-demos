@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="okta-auth_rev3_2020_05_26">
+    <Basepaths>/v1/oauth</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1591687841034</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>okta-auth</DisplayName>
+    <LastModifiedAt>1591687841034</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:edd9fbbef133d72686527d2562e19c2b2538552ff5c60c4dfb22c83e78525f92a5c07369ac9ec28aa6b43e96fbb046757136da5cb0e05926f595d63997ab575b</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Basic-Authentication-1</Policy>
+        <Policy>Key-Value-Map-Operations-1</Policy>
+        <Policy>Key-Value-Map-Operations-2</Policy>
+        <Policy>Verify-API-Key-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

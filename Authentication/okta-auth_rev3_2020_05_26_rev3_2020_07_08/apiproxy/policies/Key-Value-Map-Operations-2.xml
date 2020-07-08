@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<KeyValueMapOperations async="false" continueOnError="false" enabled="true" name="Key-Value-Map-Operations-2" mapIdentifier="okta-config">
+    <DisplayName>Key Value Map Operations-2</DisplayName>
+    <Properties/>
+    <Get assignTo="targetEndpoint" index="1">
+        <Key>
+            <Parameter>targetEndpoint</Parameter>
+        </Key>
+    </Get>
+    <Scope>environment</Scope>
+</KeyValueMapOperations>
