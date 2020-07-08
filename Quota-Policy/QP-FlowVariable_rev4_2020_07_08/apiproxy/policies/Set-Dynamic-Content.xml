@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage name="Set-Dynamic-Content">
+    <AssignTo createNew="false" type="response"/>
+    <Set>
+        <Payload variablePrefix="@" variableSuffix="#" contentType="application/json">
+            {"Available Quota":"@ratelimit.Quota-1.available.count#",
+            "Used Quota":"@ratelimit.Quota-1.used.count#",
+            "Total Quota":"@ratelimit.Quota-1.allowed.count#"}
+        </Payload>
+    </Set>
+    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+</AssignMessage>

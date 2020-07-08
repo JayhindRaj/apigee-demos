@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="3" name="Qp-Flexi">
+    <Basepaths>/qp-flexi</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1591948819567</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>QP-Flexi</DisplayName>
+    <LastModifiedAt>1591948819567</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:9c383bd69b2cc0ca3316a517af0a512e0ad9f01cf02a17979dd1f03bda5cbc6bc4c255a681e13388471e4d87fe1c2c7a3d13e9de1999e80eea477efd67a6b850</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

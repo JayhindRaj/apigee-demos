@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="QP-ErrorHandling">
+    <Basepaths>/qp-errorhandling</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1591963331519</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>QP-ErrorHandling</DisplayName>
+    <LastModifiedAt>1591963331519</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:5c291f93a05334bcfc862c61e9860386dc4e4eaad91b7a1906f65bae19e4bc5bcca8960eb5a20ac399d5f22b80c5036b00c16bf1e449cc1875f1832f8a3f0026</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+        <Policy>set-quota-error-msg</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Quota async="false" continueOnError="false" enabled="true" name="Quota-1">
+    <DisplayName>Quota-1</DisplayName>
+    <Properties/>
+    <Interval>1</Interval>
+    <Distributed>true</Distributed>
+    <Synchronous>truee</Synchronous>
+    <TimeUnit>minute</TimeUnit>
+    <Allow>
+        <Class ref="request.queryparam.appTeam">
+            <Allow class="developer" count="4"/>
+            <Allow class="tester" count="2"/>
+        </Class>
+    </Allow>
+</Quota>

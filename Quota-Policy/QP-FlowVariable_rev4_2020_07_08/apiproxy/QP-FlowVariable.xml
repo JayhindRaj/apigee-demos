@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="4" name="QP-FlowVariable">
+    <Basepaths>/qp-flowvariable</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1591949834208</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>QP-FlowVariable</DisplayName>
+    <LastModifiedAt>1591962253231</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:cdeaf1ac9b3c5bb103237612025868826c06d7f7861da2adad0761299aee2bd4927bf9a4a136fe32240de51a7c5fbee36cae1ba612b9423edf7a55ab059fd74b</ManifestVersion>
+    <Policies>
+        <Policy>Quota-1</Policy>
+        <Policy>Set-Dynamic-Content</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

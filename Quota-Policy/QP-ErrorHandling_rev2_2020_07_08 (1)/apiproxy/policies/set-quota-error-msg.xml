@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<AssignMessage name="set-quota-error-msg">
+    <AssignTo createNew="false" type="response"/>
+    <Set>
+        <Payload variablePrefix="@" variableSuffix="#" contentType="application/json">
+            {
+            "ErroeCode":"EQ001",
+            "ErrorMsg":"QuotaExceeded"}
+        </Payload>
+    </Set>
+    <IgnoreUnresolvedVariables>false</IgnoreUnresolvedVariables>
+</AssignMessage>
