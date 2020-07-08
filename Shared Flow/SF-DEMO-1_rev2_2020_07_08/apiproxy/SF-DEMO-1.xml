@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="2" name="SF-DEMO-1">
+    <Basepaths>/sf-demo-1</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1590736591260</CreatedAt>
+    <CreatedBy>jayhindit3033@gmail.com</CreatedBy>
+    <Description></Description>
+    <DisplayName>SF-DEMO-1</DisplayName>
+    <LastModifiedAt>1590736591260</LastModifiedAt>
+    <LastModifiedBy>jayhindit3033@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:3e1d1e930c97ec416595f486b74bc5f4169002ccfe00d80a3f534fdb349901e8ff8de723a74693cfb4a2ae91e3ebf72011c8b2117c5bbf3b68dc3a172913a77e</ManifestVersion>
+    <Policies>
+        <Policy>Flow-Callout-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>
